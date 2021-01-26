@@ -1,26 +1,25 @@
-### Hi <img src="https://raw.githubusercontent.com/wasabeef/wasabeef/master/icons/wave.gif" width="30px">
+### Hirrot
 <br/>
 
-I'm Hiroto Shibutani, a **software engineer** 👨🏻‍💻 
+I'm Hiroto Shibutani, a **software engineer**.
 <br/>
 
 - 🗼 Living in **Tokyo, Japan**
 
-- 👨‍💻 Currently Working at Lei Hau'oli and NowDo
+- 👨‍💻 Currently Working at Lei Hau'oli
 
 - 👍 Fortnite and Camera  🎮 📷
 
-- ✈️ Open to Remote Job Opportunities 🍻
+- 🍻 WFH babe 🤘
 
 <br/>
 
 ### 📈 GitHub Stats
 
 [![dj-hirrot's github stats](https://github-readme-stats.vercel.app/api?username=dj-hirrot&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dj-hirrot&show_icons=true&langs_count=8&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### ♡ Top Sponsors
-
-_nothing_
 
 <img src="https://komarev.com/ghpvc/?username=dj-hirrot&color=blue&style=flat-square&label=visitors" align="right" />
