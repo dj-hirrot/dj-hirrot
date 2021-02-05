@@ -4,7 +4,7 @@
 I'm Hiroto Shibutani, a **software engineer**.
 <br/>
 
-- 🗼 Living in **Tokyo, Japan**
+- 🗼 Living in **Kanagawa, Japan**
 
 - 👨‍💻 Currently Working at Lei Hau'oli
 
