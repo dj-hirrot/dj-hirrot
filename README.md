@@ -10,7 +10,7 @@ I'm Hiroto Shibutani, a **software engineer**.
 
 - 👍 Fortnite and Camera  🎮 📷
 
-- 🍻 WFH babe 🤘
+- 🍻 WFH
 
 <br/>
 
